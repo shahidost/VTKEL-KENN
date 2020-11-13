@@ -1,3 +1,3 @@
-# VTKEL-KENN
-This repository consist of codes, model and datasets for Knowledge-Enhance neural Network for Visual-Textual-Knowledge Entity Linking model. 
+# VitKaN Architecture:
+This repository consists of scripts datasets, and network architecture for **Visual-Textual-Knowledge Alignment Network (VitKaN)** for *Visual-Textual-Knowledge Entity* alignment. 
 (All the data and scripts files be uploaded very soon).
